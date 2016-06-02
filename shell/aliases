@@ -3,3 +3,4 @@ alias cdgit="cd ~/git"
 alias emacs='/usr/local/Cellar/emacs/24.5/Emacs.app/Contents/MacOS/Emacs -nw'
 alias emax='emacsclient -t'
 alias emacspid='pgrep -f emacs/24.5/Emacs.app'
+alias emaxd='emacs --daemon'
