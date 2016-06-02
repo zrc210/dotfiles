@@ -1,2 +1,0 @@
-alias ls='ls -lAqFh'
-alias cdgit="cd ~/git"
