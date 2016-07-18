@@ -10,6 +10,7 @@
   (setq web-mode-css-indent-offset n) ; web-mode, css in html file
   (setq web-mode-code-indent-offset n) ; web-mode, js code in html file
   (setq css-indent-offset n) ; css-mode
+  (setq lua-indent-level n) ; lua-mode
   )
 
 (defun code-style ()
