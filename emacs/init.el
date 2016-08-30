@@ -1,4 +1,4 @@
-(prelude-require-packages '(enh-ruby-mode robe handlebars-mode yaml-mode web-mode smart-tabs-mode))
+(prelude-require-packages '(enh-ruby-mode robe handlebars-mode yaml-mode web-mode smart-tabs-mode sql-indent))
 
 (add-hook 'text-mode-hook 'flyspell-mode)
 (add-hook 'prog-mode-hook 'flyspell-prog-mode)
