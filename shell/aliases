@@ -4,3 +4,4 @@ alias emacs='/usr/local/Cellar/emacs/25.1/Emacs.app/Contents/MacOS/Emacs -nw'
 alias emax='emacsclient -t'
 alias emacspid='pgrep -f emacs/25.1/Emacs.app'
 alias emaxd='emacs --daemon'
+alias ss="stat -f '%A %a %N'"
